@@ -1,0 +1,15 @@
+{
+  "name": "mvncmp",
+  "version": "1.0.0",
+  "description": "Javascript implementation of Maven's ComparableVersion",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "author": "Montoux (support@montoux.com)",
+  "devDependencies": {
+    "chai": "^4.2.0",
+    "mocha": "^6.1.4"
+  },
+  "license": "Apache Licence Version 2.0 (http://www.apache.org/licenses/LICENSE-2.0)"
+}
